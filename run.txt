@@ -1,0 +1,1 @@
+python TFLite_detection_image.py --modeldir models --image /home/dheepss/Documents/vardinan/h122_png_jpg.rf.cb3997d22b151989b24664e26cabb9ea.jpg --labels /home/dheepss/Documents/vardinan/models/labelmap.txt
